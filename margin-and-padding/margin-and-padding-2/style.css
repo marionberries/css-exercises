@@ -7,7 +7,7 @@ body {
   width: 400px;
   background: #fff;
   margin: 16px auto;
-  
+  /* can add padding to create padding around inner boxes */
 }
 
 .title {
@@ -27,6 +27,7 @@ body {
   padding-bottom: 16px;
   padding-left: 16px;
   padding-right: 16px;
+  /* can consolidate padding comments using padding: X X format */
 }
 
 .button-container {
